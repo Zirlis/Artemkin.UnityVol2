@@ -151,7 +151,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 3cb9ef313037a834cbfeb09b0ca42627, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &328065989
 Terrain:
   m_ObjectHideFlags: 0
@@ -227,7 +227,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 0a317e3882f8f614cbdf1ca6a613b58d, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &394660200
 Terrain:
   m_ObjectHideFlags: 0
@@ -569,7 +569,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 2045f9bb73e36b545a69ade885f77e02, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &858465451
 Terrain:
   m_ObjectHideFlags: 0
@@ -645,7 +645,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 62800f911a98d514bb7d98cae948b2b1, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &874719731
 Terrain:
   m_ObjectHideFlags: 0
@@ -721,7 +721,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 3c75bb9fe8f00bb49b67ee9c61c7f559, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &887695542
 Terrain:
   m_ObjectHideFlags: 0
@@ -880,7 +880,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 028f22aa269bc5340bd436f332940622, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &985306719
 Terrain:
   m_ObjectHideFlags: 0
@@ -956,7 +956,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 33b10afe7c0155d49a61932c406a2a25, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &1248931540
 Terrain:
   m_ObjectHideFlags: 0
@@ -1122,7 +1122,7 @@ TerrainCollider:
   m_Material: {fileID: 0}
   m_Enabled: 1
   m_TerrainData: {fileID: 15600000, guid: 714f8863eed731f4ab692b9412f73da8, type: 2}
-  m_EnableTreeColliders: 0
+  m_EnableTreeColliders: 1
 --- !u!218 &1437966504
 Terrain:
   m_ObjectHideFlags: 0
